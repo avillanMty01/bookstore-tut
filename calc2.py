@@ -10,4 +10,7 @@ def multiply(x,y):
     return x*y
 
 def divide(x,y):
-    pass
+    if y == 0:
+        return false
+    else:
+        return x/y
