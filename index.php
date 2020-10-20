@@ -19,7 +19,7 @@
 
     <main>
       <div class="container text-center">
-        <h1 class="py-4 bg-dark text-light rounded"><i class="fas fa-swatchbook"></i> Alf's Book Store</h1>
+        <h1 class="py-4 bg-dark text-light rounded"><i class="fas fa-swatchbook"></i> Alf's Book Store Manhattan</h1>
       </div>
 
         <!-- now, create input elements, using php, since code repeats -->

@@ -15,6 +15,8 @@ def divide(x,y):
     else:
         return x/y
 
-# now we moved the commit to edit branch
-# and we reset the commit on main, plus we unstaged calc2.py
-# with   git restore --staged calc2.py
+def power2(x)
+    return x*x
+
+# this is an edit in the main branch. But it should have been on the edit branch
+#   so we do a cherry-pick
