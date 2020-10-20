@@ -21,3 +21,7 @@ def power2(x)
 
 # this is an edit in the main branch. But it should have been on the edit branch
 #   so we do a cherry-pick
+
+def powerof(x,y):
+    return x**y
+    #in javascript, works the same (exponentiation operator)
