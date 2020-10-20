@@ -14,3 +14,7 @@ def divide(x,y):
         return false
     else:
         return x/y
+
+# now we moved the commit to edit branch
+# and we reset the commit on main, plus we unstaged calc2.py
+# with   git restore --staged calc2.py
