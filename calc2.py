@@ -14,9 +14,12 @@ def divide(x,y):
         return false
     else:
         return x/y
+<<<<<<< HEAD
 
 def power2(x)
     return x*x
 
 # this is an edit in the main branch. But it should have been on the edit branch
 #   so we do a cherry-pick
+=======
+>>>>>>> parent of a449a50... performed cherry-pick and git reset --soft
