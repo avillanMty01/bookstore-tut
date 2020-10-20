@@ -14,7 +14,6 @@ def divide(x,y):
         return false
     else:
         return x/y
-<<<<<<< HEAD
 
 def power2(x)
     return x*x
